@@ -2,11 +2,11 @@
 
 **Every agent needs a computer. This is its.**
 
-A real computer for your AI agent: isolated, GPU-capable Linux desktops on your Mac, on your real files. Use them yourself, hand one to an agent over MCP, or design a process that runs in several copies at once and comes back with proof. Local first, cloud ready.
+Make things: the software you build and test, the content you produce, the routines that keep a business running. Work that needs real apps, done with an agent in an isolated Linux desktop, on your real files. Watch it, take the wheel, or design the process once and get back proof. Local-first, cloud-ready.
 
-- Website — [its.computer](https://its.computer)
+- Website and docs — [its.computer](https://its.computer) · [its.computer/docs](https://its.computer/docs/)
 - Downloads and issues — [its-computer-releases](https://github.com/its-computer/its-computer-releases)
-- Homebrew — `brew install its-computer/tap/computer` ([tap](https://github.com/its-computer/homebrew-tap))
+- Homebrew — `brew install --cask its-computer/tap/computer` ([tap](https://github.com/its-computer/homebrew-tap))
 - Contact — hello@its.computer
 
-Early access. Requires macOS on Apple silicon.
+Early access. macOS on Apple silicon.
